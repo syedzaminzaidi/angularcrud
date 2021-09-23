@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Syed ",
+      "lastName": "Zamin",
+      "email": "abzamin123@gmail.com",
+      "mobile": "03111459801",
+      "salary": "$50,000"
+    },
+    {
+      "id": 4,
+      "firstName": "ali",
+      "lastName": "hassan",
+      "email": "hassan",
+      "mobile": "2444434",
+      "salary": "4242424"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
